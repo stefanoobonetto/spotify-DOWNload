@@ -1,0 +1,5 @@
+spotipy
+pytube
+yt_dlp
+moviepy
+moviepy.editor
