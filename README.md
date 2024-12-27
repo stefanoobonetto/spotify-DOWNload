@@ -3,14 +3,10 @@
 
 A **Python script** to download tracks from a Spotify playlist by fetching YouTube URLs and converting them to MP3 format. 🎧✨
 
----
-
 ## ⚡ Prerequisites
 
 - 🐍 **Python 3.8+** is required.
 - 🛠️ Install `venv` if not already installed.
-
----
 
 ## 🚀 Setup
 
@@ -77,8 +73,6 @@ sudo apt install ffmpeg -y
     ffmpeg -version
     ```
 
----
-
 ## 🛠️ **Usage**
 
 Run the script using:
@@ -89,13 +83,9 @@ python main.py
 
 You will be prompted to enter a **Spotify playlist URL**. The tracks will be downloaded and converted to MP3 format.
 
----
-
 ## 📂 **Output**
 
 - The MP3 files will be saved in the `output/<playlist_name>` folder. 🎵
 - A `.csv` file with track details will also be temporarily created in the same folder and then deleted after processing.
-
----
 
 Happy downloading! 🥳✨
